@@ -72,3 +72,22 @@
   .times {
     font-size: 6.2rem;
   }
+  .mk-link {
+    position: fixed;
+    bottom: 4rem;
+    cursor: pointer;
+    margin-left: 600px;
+  }
+  
+  .hardelz {
+    width: 30px;
+    height: 30px;
+    margin-right: 130px;
+  }
+  .press{
+    width: 300px;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 10px;
+    font-size: 20px;
+  }
